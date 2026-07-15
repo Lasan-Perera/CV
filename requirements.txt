@@ -1,0 +1,17 @@
+# Core
+numpy
+opencv-python
+opencv-contrib-python
+
+# Visualisation
+matplotlib
+pillow
+
+# Scientific / ML
+scipy
+scikit-image
+scikit-learn
+
+# Notebooks
+jupyterlab
+ipykernel
