@@ -5,7 +5,7 @@ Coursework, notes, and experiments for my university CV/Machine Vision module.
 ## Setup
 
 ```bash
-git clone https://github.com/YOURNAME/CV.git
+git clone https://github.com/Lasan-Perera/CV.git
 cd CV
 python3 -m venv venv
 source venv/bin/activate
